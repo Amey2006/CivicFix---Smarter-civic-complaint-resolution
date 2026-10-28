@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+backend/.venv/
+backend/.env
+backend/uploads/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Local portable databases
+.dbtools/
